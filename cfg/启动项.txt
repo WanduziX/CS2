@@ -1,1 +1,2 @@
--allow_third_party_software -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -freq 240 -highpriority -processheap -noforcemparms -noforcemaccel -nojoy -d3d9ex -tickrate 128 +exec tiaotou.cfg
+-worldwide -allow_third_party_software -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -freq 240 -highpriority -processheap -noforcemparms -noforcemaccel -nojoy -d3d9ex -tickrate 128 +exec tiaotou.cfg
+-worldwide -allow_third_party_software -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -freq 320 -highpriority -processheap -noforcemparms -noforcemaccel -nojoy -d3d9ex -tickrate 128 +exec tiaotou.cfg
